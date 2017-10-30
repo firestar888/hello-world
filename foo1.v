@@ -1,3 +1,3 @@
 module foo1;
-// 20171030a
+// 20171030a, master-001
 endmodule
